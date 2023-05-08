@@ -6,23 +6,23 @@ height="250"></p>
 
 Noise Complaint? is a very easy way to make your day nice and relaxing with our special formula from our local wildlife we have made the product just for that problem that most of us have with children always being such a ruckus.
 
-## Features
+<h1 align="center">Fetures</h1>
 
 Noise Complaint? works by how normal melatonin would but stronger, by enhancing the melatonin in your brain, making you fall asleep faster to have that peace and quiet you need
 
-## Some of the popular companys that supports Noise Complaint? include:
+<h1 align="center">Some of the popular companys that supports Noise Complaint? include:</h1>
 
 Noise Complaint? CO
 Walgreens
 Magic Product Introductions
 
-## this product is Used by
+<h1 align="center">this product is Used by</h1>
 
 adults
 kids
 and all over the age of 60
 
-## questions and answers
+<h1 align="center">questions and answers</h1> 
 
 1. is this product safe:
 yes it is made specifically for falling asleep quicker
