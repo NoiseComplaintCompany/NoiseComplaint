@@ -37,4 +37,6 @@ half the packet: 4 to 6 hours.
 full packet (dangerous!): 10 to 24 hours or death.
 
 
-<h1 align="center"> and remember: Getting Annoyed.. lots Of Noise.. It's Time For Noise Complaint!..</h1>
+<h1 align="center">and remember: Getting Annoyed.. lots Of Noise.. It's Time For Noise Complaint!..</h1>
+
+<p align="center"><"© 2023 Noise Complaint Company. All rights reserved."></p>
