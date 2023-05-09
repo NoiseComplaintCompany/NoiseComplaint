@@ -8,18 +8,18 @@ height="250"></p>
 
 <h1 align="center">Fetures</h1>
 
-**Noise Complaint?** works by how normal melatonin would but stronger, by enhancing the melatonin in your brain, making you fall asleep faster to have that peace and quiet you need
+**Noise Complaint?** works by how normal melatonin would but stronger by enhancing the melatonin in your brain, making whoever fall asleep faster to have that peace and quiet you need
 
 <h1 align="center">Some of the popular companys that supports Noise Complaint? include:</h1>
 
-* Noise Complaint? CO,
-* Walgreens,
+* Noise Complaint? CO
+* Walgreens
 * Magic Product Introductions
 
 <h1 align="center">this product is Used by</h1>
 
-* adults,
-* kids,
+* adults
+* kids
 * and all over the age of 60
 
 <h1 align="center">questions and answers</h1> 
