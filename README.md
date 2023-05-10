@@ -37,9 +37,7 @@ height="250"></p>
 * full packet **(dangerous!)**: 10 to 24 hours or **death**.
 
 **4. what is it made out of and how did you get it?:**
-* we make our product out of the finest of products outside of our reach, but while exploring for our product we found the legendary fairy one of the most useful creatures on our planet, though at the time we found they were in great danger with a massive disease killing them off. so we took them back to our lab to try to help, soon finding the cure for siad disease. and in return the fairies let us take some of their magical dust to run tests on and that's how we created our product **©NoiseComplaint?**
-
-
+* we make our product out of the finest of products outside of our reach, but while exploring for our product we found the legendary fairy one of the most useful creatures on our planet, though at the time we found they were in great danger with a massive disease killing them off. so we took them back to our lab to try to help, soon finding the cure for siad disease. and in return the fairies let us take some of their magical dust to run tests on that's how we created our product. **©NoiseComplaint?**
 
 <h1 align="center">and remember: Getting Annoyed.. lots Of Noise.. It's Time For Noise Complaint!..</h1>
 
