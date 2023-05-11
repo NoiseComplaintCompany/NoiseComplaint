@@ -20,6 +20,7 @@ height="250"></p>
 
 * adults
 * kids
+* animals
 * and all over the age of 60
 
 <h1 align="center">questions and answers</h1> 
